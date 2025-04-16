@@ -12,6 +12,6 @@ Welcome! This repository contains a growing collection of my solutions to LeetCo
 ---
 
 ## 📁 Current Structure
-Competitive-programming/camp1/leetcode
+Leetcodes/camp1/leetcode
 
 
